@@ -24,7 +24,11 @@ nav li {
     display: inline;
     margin: 20px;
 }
-
+h2{
+    background-color: #fff;
+    color: #333;
+    text-size-adjust: 5mm;
+}
 main {
     max-width: 800px;
     margin: 0 auto;
