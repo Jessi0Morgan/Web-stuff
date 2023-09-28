@@ -29,6 +29,13 @@ h2{
     color: #dddddd;
     text-size-adjust: 17px;
 }
+.text-box{
+    border: 2px solid #dddddd;
+    padding: 10px;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
 p{
     background-color: #3b0606;
     color: #dddddd;
