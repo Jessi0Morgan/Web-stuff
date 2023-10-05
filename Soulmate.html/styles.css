@@ -7,19 +7,19 @@ body {
     background-attachment: fixed;
    
 }
-.outlined-header{
-        font-size: 24px;
-        text-shadow: 2px 2px 4px rgba(#7512a3, #7512a3, #7512a3, alpha)
+.outlined-header {
+    font-size: 24px;
+    text-shadow: 2px 2px 4px rgba(117, 18, 163, 0.5); /* Use RGBA format with separate color values */
+}
 
-    }
 header {
     color: #ffffff;
     text-align: center;
     padding: 1rem;
     font-size: 24px;
-    text-shadow: 5px 5px 7px rgba(#7512a3, #7512a3, #7512a3, alpha)
-
+    text-shadow: 5px 5px 7px rgba(117, 18, 163, 0.5); /* Use RGBA format with separate color values */
 }
+
 
 
 nav ul {
