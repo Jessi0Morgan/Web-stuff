@@ -8,8 +8,8 @@ body {
    
 }
 .outlined-header {
-    font-size: 24px;
-    text-shadow: 7px 7px 9px rgba(55, 5, 2, 0.837); /* Use RGBA format with separate color values */
+    font-size: 36px;
+    text-shadow: 12px 12px 14px rgba(55, 5, 2, 0.837); /* Use RGBA format with separate color values */
 }
 li{
     color: #ffffff;
