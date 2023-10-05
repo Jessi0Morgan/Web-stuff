@@ -12,7 +12,7 @@ body {
     text-shadow: 12px 12px 14px rgba(55, 5, 2, 0.837); /* Use RGBA format with separate color values */
 }
 li{
-    color: #ffffff;
+    color: #e33db9;
     text-align: center;
     font-size: 18px;
 }
@@ -30,20 +30,20 @@ li{
 }
 
 header {
-    color: #ffffff;
+    color: #e33db9;
     text-align: center;
     padding: 1rem;
     font-size: 36px;
     text-shadow: 7px 7px 12px rgba(66, 4, 4, 0.859) /* Use RGBA format with separate color values */
 }
 h2{
-    color: #ffffff;
+    color: #e33db9;
     text-align: center;
     padding: 1rem;
     font-size: 27px;
 }
 p{
-    color: #ffffff;
+    color: #e33db9;
     text-align: center;
     padding: 1rem;
     font-size: 18px;
