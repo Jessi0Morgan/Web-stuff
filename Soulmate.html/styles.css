@@ -1,7 +1,39 @@
+
 body {
-    font-family: 'Franklin Gothic Medium'; 
+    font-family: Arial, sans-serif;
     background-image: url(new-background.png);
     background-size: cover;
     background-repeat:no-repeat;
     background-attachment: fixed;
     
+}
+
+header {
+    background-color: #480a0a;
+    color: #8c8e8e;
+    text-align: center;
+    padding: 1rem;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 20px;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+}
