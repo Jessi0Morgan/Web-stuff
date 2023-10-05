@@ -1,7 +1,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-image: url(new-background.png);
+    background-image: url(Lovers.jpg);
     background-size: cover;
     background-repeat:no-repeat;
     background-attachment: fixed;
@@ -9,8 +9,8 @@ body {
 }
 
 header {
-    background-color: #480a0a;
-    color: #8c8e8e;
+    background-color: #420d61;
+    color: #ffffff;
     text-align: center;
     padding: 1rem;
 }
