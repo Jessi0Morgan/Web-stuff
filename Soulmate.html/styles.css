@@ -16,6 +16,9 @@ header {
     color: #ffffff;
     text-align: center;
     padding: 1rem;
+    font-size: 24px;
+    text-shadow: 2px 2px 4px rgba(#7512a3, #7512a3, #7512a3, alpha)
+
 }
 
 
