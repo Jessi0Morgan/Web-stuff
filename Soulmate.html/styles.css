@@ -9,12 +9,12 @@ body {
 }
 .outlined-header {
     font-size: 24px;
-    text-shadow: 2px 2px 4px rgba(117, 18, 163, 0.5); /* Use RGBA format with separate color values */
+    text-shadow: 7px 7px 9px rgba(55, 5, 2, 0.837); /* Use RGBA format with separate color values */
 }
 li{
     color: #ffffff;
     text-align: center;
-    font-size: 15px;
+    font-size: 18px;
 }
 .text-box{
     border: 2px solid #dddddd;
