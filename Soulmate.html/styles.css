@@ -19,6 +19,11 @@ body {
     text-align: center;
 
 }
+.paragraph-list {
+    list-style-type: none; 
+    padding: 0; 
+}
+
 header {
     color: #ffffff;
     text-align: center;
