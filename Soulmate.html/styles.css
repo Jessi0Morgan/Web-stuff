@@ -11,6 +11,11 @@ body {
     font-size: 24px;
     text-shadow: 2px 2px 4px rgba(117, 18, 163, 0.5); /* Use RGBA format with separate color values */
 }
+li{
+    color: #ffffff;
+    text-align: center;
+    font-size: 24px;
+}
 .text-box{
     border: 2px solid #dddddd;
     padding: 10px;
