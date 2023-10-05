@@ -33,20 +33,20 @@ header {
     color: #ffffff;
     text-align: center;
     padding: 1rem;
-    font-size: 24px;
-    text-shadow: 5px 5px 7px rgba(117, 18, 163, 0.5); /* Use RGBA format with separate color values */
+    font-size: 36px;
+    text-shadow: 7px 7px 12px rgba(66, 4, 4, 0.859) /* Use RGBA format with separate color values */
 }
 h2{
     color: #ffffff;
     text-align: center;
     padding: 1rem;
-    font-size: 24px;
+    font-size: 27px;
 }
 p{
     color: #ffffff;
     text-align: center;
     padding: 1rem;
-    font-size: 15px;
+    font-size: 18px;
 }
 
 nav ul {
