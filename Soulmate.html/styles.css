@@ -32,7 +32,7 @@ li{
 .my-button {
     background-color: #e33db9; 
     color: #ffff; 
-    padding: 50px 70px; 
+    padding: 50px 200px; 
     border: none; 
     border-radius: 5px; 
     cursor: pointer; 
@@ -42,7 +42,7 @@ li{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 10vh;
+    height: 20vh;
 }
 
 .my-button:hover {
