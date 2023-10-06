@@ -38,6 +38,7 @@ li{
     cursor: pointer; 
     margin-top: 20px;
     font-size: 50px;
+    text-shadow: rgba(55, 5, 2, 0.837);
 }
 .container {
     display: flex;
