@@ -37,7 +37,12 @@ li{
     border-radius: 5px; 
     cursor: pointer; 
 }
-
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
 
 .my-button:hover {
     background-color: #2980b9; 
