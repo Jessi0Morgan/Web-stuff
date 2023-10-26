@@ -1,0 +1,141 @@
+body, h1, h3, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .center-align {
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 36px;
+    color: #333;
+    margin: 10px 0;
+  }
+  
+  .subtitle {
+    font-size: 24px;
+    color: #777;
+    margin: 10px 0;
+  }
+  
+  .header {
+    padding: 20px 0;
+  }
+  
+  img {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  
+  blockquote {
+    background-color: #f9f9f9;
+    border-left: 5px solid #3498db;
+    padding: 10px;
+    margin: 20px 0;
+  }
+  
+  .quote {
+    font-style: italic;
+    color: #555;
+  }
+  
+  .source-quote {
+    font-size: 14px;
+    color: #777;
+  }
+  
+  .timeline {
+    font-size: 20px;
+    margin-top: 20px;
+    color: #333;
+  }
+  
+  .collapsible {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .collapsible-header {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 10px 0;
+  }
+  
+  .collapsible-body {
+    background-color: #fff;
+    border: 1px solid #3498db;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    display: none;
+  }
+  
+  .collapsible-body p {
+    margin: 10px 0;
+  }
+  
+  .fun-facts {
+    font-size: 24px;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  .link {
+    display: block;
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 10px 0;
+    transition: background-color 0.3s;
+  }
+  
+  .link:hover {
+    background-color: #2778b6;
+  }
+  
+  /* Footer Styles */
+  .page-footer {
+    background-color: #3498db;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer-link {
+    margin: 10px 0;
+  }
+  
+  /* Media Queries for Responsiveness */
+  @media (max-width: 768px) {
+    .container {
+      padding: 10px;
+    }
+  }
+  This CSS design enhances the visual appeal of your content with appropriate font styles, background colors, and spacing. You can further customize and adjust the styles to match your preferences and the overall theme of your website.
+  
+  
+  
+  
+  
+  
