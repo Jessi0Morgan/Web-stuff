@@ -3,11 +3,11 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #258e8e;
+    background-color: #0d3b66;
 }
 
 header {
-    background-color: #141414;
+    background-color: #2dc48d;
     color: #ffffff;
     text-align: center;
     padding: 1em 0;
@@ -23,7 +23,7 @@ section {
 }
 
 h1, h2 {
-    color: #4b92cd;
+    color: #1a67a5;
 }
 
 h2 {
@@ -54,6 +54,6 @@ li {
 footer {
     text-align: center;
     padding: 1em 0;
-    background-color: #292290;
+    background-color: #2dc48d;
     color: #c81616;
 }
